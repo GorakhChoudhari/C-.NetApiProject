@@ -1,0 +1,17 @@
+C:\Kalpita Employee\KE.Repository\obj\Debug\net6.0\KE.Repository.csproj.AssemblyReference.cache
+C:\Kalpita Employee\KE.Repository\obj\Debug\net6.0\KE.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kalpita Employee\KE.Repository\obj\Debug\net6.0\KE.Repository.AssemblyInfoInputs.cache
+C:\Kalpita Employee\KE.Repository\obj\Debug\net6.0\KE.Repository.AssemblyInfo.cs
+C:\Kalpita Employee\KE.Repository\obj\Debug\net6.0\KE.Repository.csproj.CoreCompileInputs.cache
+C:\Kalpita Employee\KE.Repository\bin\Debug\net6.0\KE.Repository.deps.json
+C:\Kalpita Employee\KE.Repository\bin\Debug\net6.0\KE.Repository.dll
+C:\Kalpita Employee\KE.Repository\bin\Debug\net6.0\KE.Repository.pdb
+C:\Kalpita Employee\KE.Repository\bin\Debug\net6.0\KE.Framework.dll
+C:\Kalpita Employee\KE.Repository\bin\Debug\net6.0\KE.Models.dll
+C:\Kalpita Employee\KE.Repository\bin\Debug\net6.0\KE.Framework.pdb
+C:\Kalpita Employee\KE.Repository\bin\Debug\net6.0\KE.Models.pdb
+C:\Kalpita Employee\KE.Repository\obj\Debug\net6.0\KE.Repository.csproj.CopyComplete
+C:\Kalpita Employee\KE.Repository\obj\Debug\net6.0\KE.Repository.dll
+C:\Kalpita Employee\KE.Repository\obj\Debug\net6.0\refint\KE.Repository.dll
+C:\Kalpita Employee\KE.Repository\obj\Debug\net6.0\KE.Repository.pdb
+C:\Kalpita Employee\KE.Repository\obj\Debug\net6.0\ref\KE.Repository.dll

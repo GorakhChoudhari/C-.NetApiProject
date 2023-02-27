@@ -1,0 +1,12 @@
+C:\Kalpita Employee\KE.Framework\obj\Debug\net6.0\KE.Framework.csproj.AssemblyReference.cache
+C:\Kalpita Employee\KE.Framework\obj\Debug\net6.0\KE.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kalpita Employee\KE.Framework\obj\Debug\net6.0\KE.Framework.AssemblyInfoInputs.cache
+C:\Kalpita Employee\KE.Framework\obj\Debug\net6.0\KE.Framework.AssemblyInfo.cs
+C:\Kalpita Employee\KE.Framework\obj\Debug\net6.0\KE.Framework.csproj.CoreCompileInputs.cache
+C:\Kalpita Employee\KE.Framework\bin\Debug\net6.0\KE.Framework.deps.json
+C:\Kalpita Employee\KE.Framework\bin\Debug\net6.0\KE.Framework.dll
+C:\Kalpita Employee\KE.Framework\bin\Debug\net6.0\KE.Framework.pdb
+C:\Kalpita Employee\KE.Framework\obj\Debug\net6.0\KE.Framework.dll
+C:\Kalpita Employee\KE.Framework\obj\Debug\net6.0\refint\KE.Framework.dll
+C:\Kalpita Employee\KE.Framework\obj\Debug\net6.0\KE.Framework.pdb
+C:\Kalpita Employee\KE.Framework\obj\Debug\net6.0\ref\KE.Framework.dll

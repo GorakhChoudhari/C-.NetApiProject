@@ -1,0 +1,12 @@
+C:\Kalpita Employee\KE.Models\bin\Debug\net6.0\KE.Models.deps.json
+C:\Kalpita Employee\KE.Models\bin\Debug\net6.0\KE.Models.dll
+C:\Kalpita Employee\KE.Models\bin\Debug\net6.0\KE.Models.pdb
+C:\Kalpita Employee\KE.Models\obj\Debug\net6.0\KE.Models.csproj.AssemblyReference.cache
+C:\Kalpita Employee\KE.Models\obj\Debug\net6.0\KE.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kalpita Employee\KE.Models\obj\Debug\net6.0\KE.Models.AssemblyInfoInputs.cache
+C:\Kalpita Employee\KE.Models\obj\Debug\net6.0\KE.Models.AssemblyInfo.cs
+C:\Kalpita Employee\KE.Models\obj\Debug\net6.0\KE.Models.csproj.CoreCompileInputs.cache
+C:\Kalpita Employee\KE.Models\obj\Debug\net6.0\KE.Models.dll
+C:\Kalpita Employee\KE.Models\obj\Debug\net6.0\refint\KE.Models.dll
+C:\Kalpita Employee\KE.Models\obj\Debug\net6.0\KE.Models.pdb
+C:\Kalpita Employee\KE.Models\obj\Debug\net6.0\ref\KE.Models.dll
